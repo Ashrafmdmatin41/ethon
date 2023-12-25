@@ -12,11 +12,11 @@ async def start_srb(event, st):
                               
     
 async def vc_menu(event):
-    await event.edit("**VIDEO CONVERTOR v1.4**", 
+    await event.edit("**𝖵𝖨𝖣𝖤𝖮 𝖢𝖮𝖭𝖵𝖤𝖱𝖳𝖮𝖱 𝗏1.4 😎**", 
                     buttons=[
-                        [Button.inline("info.", data="info"),
-                         Button.inline("SOURCE", data="source")],
-                        [Button.inline("NOTICE.", data="notice"),
-                         Button.inline("Main.", data="help")],
-                        [Button.url("Dᴇᴠᴇʟᴏᴘᴇʀ", url="t.me/Md_Matin_Ashraf")]])
+                        [Button.inline("🧐 Iɴғᴏ", data="info"),
+                         Button.inline("🫢 Oᴛʜᴇʀ Bᴏᴛs", data="source")],
+                        [Button.inline("📜 Nᴏᴛᴇs", data="notice"),
+                         Button.inline("⚙️ Sᴇᴛᴛɪɴɢs", data="help")],
+                        [Button.url("👩‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ", url="t.me/Md_Matin_Ashraf")]])
     
